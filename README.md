@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/46/68/5d/46685d75-dfa1-d27c-8b96-926fb764348b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" width="200"><br>
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/7c/bb/907cbb2c-21cd-4d49-5604-e06a99bf4a9e/AppIcon-0-0-85-220-0-0-5-0-2x.png/1200x630bb.png" width="200"><br>
 
 <a href="https://mac-apps-install.github.io/.github/pdf-printer">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
